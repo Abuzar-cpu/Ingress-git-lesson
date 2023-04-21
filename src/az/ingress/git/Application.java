@@ -5,5 +5,7 @@ public class Application {
         System.out.println("Starting development phase");
 
         First.implementation();
+
+        System.out.println("Hello MS-15");
     }
 }
